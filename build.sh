@@ -2,7 +2,7 @@
 
 ## general build stuff
 apt update
-apt install pkg-config build-essential wget curl nasm unzip git libglew-dev cuda-toolkit-10-1 python3-pip
+apt install pkg-config build-essential wget curl nasm unzip git libglew-dev cuda-toolkit-10-1 python3-pip -y
 pip3 install awscli
 
 ## install nv-codec-headers
